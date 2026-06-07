@@ -1,0 +1,2 @@
+# premiere-voice-ai-docs
+Official documentation, Privacy Policy, and Terms of Service for the Premiere Voice AI Adobe Premiere Pro extension.
