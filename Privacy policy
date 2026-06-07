@@ -1,0 +1,76 @@
+Privacy Policy
+
+Last Updated: June 07 2026
+
+Overview
+
+Premiere Voice AI ("the Plugin") is an Adobe Premiere Pro extension that generates AI-powered voiceovers from user-provided text and enables voiceover editing directly within Adobe Premiere Pro.
+
+We are committed to protecting your privacy and being transparent about how data is handled.
+
+Information We Process
+
+The Plugin may process the following information:
+
+Text entered by the user for voice generation
+Voice generation settings, including voice selection, gender, tone, speed, and pitch
+User-specified filenames for generated audio
+Metadata associated with generated audio files
+Audio files generated through the Plugin
+How Information Is Used
+
+Information is used solely to:
+
+Generate voiceover audio
+Modify previously generated voiceover clips
+Restore settings associated with previously generated voiceovers
+Import generated audio into Adobe Premiere Pro
+Local Storage
+
+The Plugin may store the following files locally on the user's device:
+
+Generated audio files (.wav)
+Metadata files (.json) associated with generated audio
+
+Metadata may include:
+
+Source text
+Voice selection
+Gender selection
+Tone settings
+Speed settings
+Pitch settings
+Filename information
+Creation timestamp
+
+These files are stored locally and remain under the user's control.
+
+Data Sharing
+
+The Plugin does not:
+
+Sell user data
+Share user data with advertisers
+Use user data for marketing purposes
+Transfer user data to third parties except as necessary for voice generation services explicitly configured by the user
+Analytics and Tracking
+
+The Plugin does not collect analytics, tracking information, advertising identifiers, or behavioral data.
+
+User Control
+
+Users retain full control over:
+
+Generated audio files
+Metadata files
+Project assets created through the Plugin
+
+Users may delete generated files and metadata at any time using standard operating system file management tools.
+
+Security
+
+Reasonable measures are taken to protect data processed by the Plugin. However, users are responsible for securing their local systems and storage environments.
+
+Changes to This Policy
+
+This Privacy Policy may be updated periodically. Any updates will be reflected by revising the "Last Updated" date above.
